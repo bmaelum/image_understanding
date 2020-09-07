@@ -1,4 +1,7 @@
 # Image Understanding 
+
+The purpose of this repository is to hold the documentation and code for a system developed for understanding images.  
+
 K.I.S.S. Keep It Simple Stupid.   
 Reusing architecture for intention classification. The goal is to analyze the result and come up with ideas on what can be improved. 
 
