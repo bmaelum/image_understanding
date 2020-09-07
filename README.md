@@ -6,6 +6,7 @@ Reusing architecture for intention classification. The goal is to analyze the re
 <p align="center">
   <img src="architecture/ml_pipeline_architecture_v2_overview.png" width="800"/>
 </p>
+
 ### Sample Architectures
 
 **Machine Learning Pipeline**
