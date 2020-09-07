@@ -1,11 +1,13 @@
 # Image Understanding 
+K.I.S.S. Keep It Simple Stupid.   
+Reusing architecture for intention classification. The goal is to analyze the result and come up with ideas on what can be improved. 
 
 ## Architecture
 
 ## Intention Classification Architecture
 
 
-ImageNet paper: http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+ImageNet paper: http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf. 
 MSc Dissertation: https://www.dropbox.com/s/4h1am0xqd3xizbv/MSc_Robotics_BjornarMaelum.pdf?dl=0
 
 ## Authors
