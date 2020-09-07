@@ -2,8 +2,10 @@
 K.I.S.S. Keep It Simple Stupid.   
 Reusing architecture for intention classification. The goal is to analyze the result and come up with ideas on what can be improved. 
 
-## Architecture
-
+## Architecture Overview
+<p align="center">
+  <img src="architecture/ml_pipeline_architecture_v2_overview.png" width="800"/>
+</p>
 ### Sample Architectures
 
 **Machine Learning Pipeline**
