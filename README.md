@@ -4,9 +4,15 @@ Reusing architecture for intention classification. The goal is to analyze the re
 
 ## Architecture
 
-## Intention Classification Architecture
+### Sample Architectures
+**Intention Classification Architecture**
 <p align="center">
   <img src="literature/intention_classification_conv_arch.png" width="800"/>
+</p>
+
+**ImageNet Architecture**
+<p align="center">
+  <img src="literature/imagenet_arch.png" width="800"/>
 </p>
 
 ImageNet paper: http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf. 
