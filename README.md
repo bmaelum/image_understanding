@@ -7,7 +7,10 @@ Reusing architecture for intention classification. The goal is to analyze the re
 
 **Built on AWS using:**
 - S3
-- Sagemaker
+- SageMaker
+  - Running data preparation, modelling and deployment
+- Elastic Beanstalk 
+  - Hosting Flask app to visualize model
 
 ## Architecture Overview
 <p align="center">
