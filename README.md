@@ -10,7 +10,7 @@ Reusing architecture for intention classification. The goal is to analyze the re
 - SageMaker
   - Running data preparation, modelling and deployment
 - Elastic Beanstalk 
-  - Hosting Flask app to visualize model
+  - Hosting Flask app to visualize/investigate model performance
 
 ## Architecture Overview
 <p align="center">
