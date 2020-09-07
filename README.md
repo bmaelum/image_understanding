@@ -31,7 +31,9 @@ Source:
   <img src="literature/imagenet_arch.png" width="800"/>
 </p>
 
-Source: ImageNet paper http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf. 
+Source: 
+
+- ImageNet paper http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf. 
 
 
 ## Authors
