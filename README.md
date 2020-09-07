@@ -19,7 +19,10 @@ Reusing architecture for intention classification. The goal is to analyze the re
 <p align="center">
   <img src="literature/intention_classification_conv_arch.png" width="800"/>
 </p>
-Source: MSc Dissertation https://www.dropbox.com/s/4h1am0xqd3xizbv/MSc_Robotics_BjornarMaelum.pdf?dl=0. 
+Source:   
+- MSc Dissertation https://www.dropbox.com/s/4h1am0xqd3xizbv/MSc_Robotics_BjornarMaelum.pdf?dl=0
+- Repo: https://github.com/bmaelum/Intention-Classification
+
 
 **ImageNet Architecture**
 <p align="center">
