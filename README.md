@@ -5,6 +5,10 @@ The purpose of this repository is to hold the documentation and code for a syste
 K.I.S.S. Keep It Simple Stupid.   
 Reusing architecture for intention classification. The goal is to analyze the result and come up with ideas on what can be improved. 
 
+**Built on AWS using:**
+- S3
+- Sagemaker
+
 ## Architecture Overview
 <p align="center">
   <img src="architecture/ml_pipeline_architecture_v2_overview.png" width="800"/>
